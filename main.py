@@ -6,8 +6,6 @@ import time
 import datetime
 import sys
 
-
-
 class LexinSport:
     def __init__(self, username, password, step):
         self.username = username
